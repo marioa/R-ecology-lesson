@@ -9,14 +9,14 @@ root: .
 > ### 00
 > - Introduce Participants to the RStudio Interface
 > - Introduce R syntax
-> - Point to relevant information on how to get help
-> - Understand how to as well formulated questions
+> - Point participants to relevant information sources on how to get help
+> - Understand how to ask well formulated questions
 > - Set up participants to have a working directory with a data/ folder inside
 > ### 01
-> - Familurize participants with R syntax
+> - Familarize participants with R syntax
 > - Understand concepts of objects and assignment
-> - Understand concenpts of vector and data types
-> - Be introduced to functions
+> - Understand concepts of vector and data types
+> - Introduced to functions
 > ### 02
 > - Load external data (CSV) into memory
 > - Explore the structure and content of a data.frame
@@ -24,7 +24,7 @@ root: .
 > ### 03
 > - Understand the concept of a data.frame
 > - Use sequences
-> - Know how to access any element of a data.frame
+> - Know how to access any element in a data.frame
 > ### 04 
 > ### 05
 > - Visualize data
